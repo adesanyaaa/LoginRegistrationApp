@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "440034996338",
+    "firebase_url": "https://loginregistrationapp-c5ccc-default-rtdb.firebaseio.com",
+    "project_id": "loginregistrationapp-c5ccc",
+    "storage_bucket": "loginregistrationapp-c5ccc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440034996338:android:67c517e9c198c395b5d2eb",
+        "android_client_info": {
+          "package_name": "com.adesoftware.loginregistrationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440034996338-0n0vatp1t2pfh8volon2akmjs3e8j8qr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adesoftware.loginregistrationapp",
+            "certificate_hash": "100d036c4cc546886bdd2338c08f818079235d98"
+          }
+        },
+        {
+          "client_id": "440034996338-ecdpqmfq5vm6j51m53icvjcohq8bfigq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmrSqNytq5eD-Ihks5IEcNhKOBSRyzWMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440034996338-ecdpqmfq5vm6j51m53icvjcohq8bfigq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
